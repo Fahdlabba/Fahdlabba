@@ -1,16 +1,14 @@
 Hi 👋 My name is Fahd Labba
 ===========================
 
-Software Developer
+Software Engineering Student | Machine Learning Enthusiast
 ------------------
 
-Committed software developer skilled in building Backend systems and currently diving in the fascinating field of Machine Learning & Competitive Programming . My passion for Computer Science , Mathematics pushed me to always look for new opportunities and challenges.
+Enthusiastic about the dynamic fields of Machine Learning and Software Engineering in General, I am driven by a relentless passion for building innovative end-to-end solutions to complex challenges. My attentive eye for detail and collaborative nature have allowed me to thrive in diverse team environments. Currently pursuing my studies in Software Engineering at ISSATSO, I am eager to propel my career forward, seeking opportunities to apply my skills and contribute to impactful
 
 * ✉️  You can contact me at [labbafahd012@gmail.com](mailto:labbafahd012@gmail.com)
-* 🧠  I'm learning Machine Learning
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,4 +25,4 @@ Committed software developer skilled in building Backend systems and currently d
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/100027275971238" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> </a> <a href="http://www.instagram.com/fahd__labba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fahd-labba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/100027275971238" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> </a> <a href="http://www.instagram.com/fahd__labba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fahd-labba" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
