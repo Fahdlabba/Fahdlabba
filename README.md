@@ -7,7 +7,7 @@ Software Developer
 Committed software developer skilled in building Backend systems and currently diving in the fascinating field of Machine Learning & Competitive Programming . My passion for Computer Science , Mathematics pushed me to always look for new opportunities and challenges.
 
 * ✉️  You can contact me at [labbafahd012@gmail.com](mailto:labbafahd012@gmail.com)
-* 🧠  I'm learning Machine Learning , Back-end Development
+* 🧠  I'm learning Machine Learning
 
 ### Skills
 
